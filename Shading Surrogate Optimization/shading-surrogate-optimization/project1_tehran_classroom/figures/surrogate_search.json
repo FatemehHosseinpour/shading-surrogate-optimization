@@ -1,0 +1,20 @@
+{
+ "200": {
+  "overlap_top50": 12.2,
+  "mean_true_score_of_picks": 75.6,
+  "best_true_score": 79.4,
+  "mean_score_all": 64.5
+ },
+ "500": {
+  "overlap_top50": 14.0,
+  "mean_true_score_of_picks": 76.0,
+  "best_true_score": 79.4,
+  "mean_score_all": 64.5
+ },
+ "1000": {
+  "overlap_top50": 16.0,
+  "mean_true_score_of_picks": 76.1,
+  "best_true_score": 79.4,
+  "mean_score_all": 64.5
+ }
+}

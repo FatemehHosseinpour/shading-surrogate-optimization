@@ -1,0 +1,26 @@
+{
+ "Linear regression": {
+  "udi": 0.237,
+  "sdg": 0.821,
+  "eui": 0.698,
+  "penergy": 0.404
+ },
+ "Random forest": {
+  "udi": 0.941,
+  "sdg": 0.992,
+  "eui": 0.971,
+  "penergy": 0.97
+ },
+ "Gradient boosting": {
+  "udi": 0.95,
+  "sdg": 0.995,
+  "eui": 0.984,
+  "penergy": 0.981
+ },
+ "Neural network": {
+  "udi": 0.939,
+  "sdg": 0.993,
+  "eui": 0.909,
+  "penergy": 0.876
+ }
+}

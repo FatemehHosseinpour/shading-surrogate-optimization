@@ -1,0 +1,58 @@
+{
+ "udi": {
+  "r2_test": 0.942,
+  "rmse_test": 1.525,
+  "r2_cv5": 0.938,
+  "importance": {
+   "wwr": 0.367,
+   "angle": 0.165,
+   "ls_angle": 0.023,
+   "depth_l": 0.278,
+   "spacing_l": 0.068,
+   "fins_l": 0.094,
+   "ls_depth": 0.004
+  }
+ },
+ "sdg": {
+  "r2_test": 0.992,
+  "rmse_test": 1.097,
+  "r2_cv5": 0.992,
+  "importance": {
+   "wwr": 0.469,
+   "angle": 0.162,
+   "ls_angle": 0.012,
+   "depth_l": 0.219,
+   "spacing_l": 0.06,
+   "fins_l": 0.073,
+   "ls_depth": 0.006
+  }
+ },
+ "eui": {
+  "r2_test": 0.971,
+  "rmse_test": 0.673,
+  "r2_cv5": 0.971,
+  "importance": {
+   "wwr": 0.133,
+   "angle": 0.211,
+   "ls_angle": 0.001,
+   "depth_l": 0.398,
+   "spacing_l": 0.091,
+   "fins_l": 0.143,
+   "ls_depth": 0.023
+  }
+ },
+ "penergy": {
+  "r2_test": 0.97,
+  "rmse_test": 2.071,
+  "r2_cv5": 0.971,
+  "importance": {
+   "wwr": 0.613,
+   "angle": 0.115,
+   "ls_angle": 0.008,
+   "depth_l": 0.153,
+   "spacing_l": 0.052,
+   "fins_l": 0.046,
+   "ls_depth": 0.014
+  }
+ }
+}
